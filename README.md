@@ -1,8 +1,8 @@
 # PlautProjekt
 
-TCP communication & Web app with basic servlets. 
+TCP communication clinet-server.
 
-There is version with Spring Boot. 
+There is version with Spring Boot web app. 
 
 SpringBoot-Chat-App
 
